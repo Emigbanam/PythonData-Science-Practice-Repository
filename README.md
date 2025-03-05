@@ -1,17 +1,20 @@
-# Exploratory Data Analysis (EDA) - Online Retail Dataset
+# Exploratory Data Analysis (EDA) Collection
 
-## Project Overview
-This project performs **Exploratory Data Analysis (EDA)** on an online retail dataset to uncover patterns and insights. The analysis includes:
+## Overview
+This repository contains a collection of **Exploratory Data Analysis (EDA)** projects on various datasets. The goal is to uncover patterns, insights, and trends using data visualization and statistical analysis.
+
+### Key Aspects of Each Analysis:
 - Data cleaning and preprocessing
 - Statistical summaries
-- Data visualization using `matplotlib` and `seaborn`
+- Visualizations using `matplotlib` and `seaborn`
+- Key insights and interpretations
 
-## Dataset
-The dataset used in this project is `Online Retail.csv`, which contains transaction records from an online store.
+This repository will be **regularly updated** with new projects, and existing analyses may be revised with additional insights.
 
 ## Repository Structure
-- `Project X.ipynb`: Jupyter Notebook containing the full EDA
-- `Online Retail.csv`: The dataset used in the analysis (not included in this repository)
+Each dataset has a dedicated Jupyter Notebook for its EDA. The structure is as follows:
+- `Project_X.ipynb`: Jupyter Notebook containing the full analysis for a dataset
+- `Online Retail.csv` (not included in the repository): The dataset used in the analysis
 
 ## Getting Started
 ### Prerequisites
@@ -20,24 +23,25 @@ Ensure you have the following Python libraries installed:
 pip install numpy pandas matplotlib seaborn
 ```
 
-### Running the Notebook
+### Running the Notebooks
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Emigbanam/eda-project.git
+   git clone https://github.com/Emigbanam/eda-projects.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd eda-project
+   cd eda-projects
    ```
 3. Open Jupyter Notebook:
    ```bash
-   jupyter notebook Project X.ipynb
+   jupyter notebook
    ```
-4. Run the cells in order to perform the analysis.
+4. Select a project notebook and run the cells in order.
 
-## Results & Insights
-- The notebook provides various visualizations and statistical summaries.
-- Key insights about customer behavior, sales trends, and anomalies are explored.
+## Updates & Contributions
+- New datasets and analyses will be added over time.
+- Existing projects may be refined with additional insights.
+- Contributions and suggestions are welcome!
 
 ## License
 This project is licensed under the MIT License.
