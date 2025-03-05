@@ -13,7 +13,7 @@ This repository will be **regularly updated** with new projects, and existing an
 
 ## Repository Structure
 Each dataset has a dedicated Jupyter Notebook for its EDA. The structure is as follows:
-- `Project_X.ipynb`: Jupyter Notebook containing the full analysis for a dataset
+- `Online Retail Store.ipynb`: Jupyter Notebook containing the full analysis for a dataset
 - `Online Retail.csv` (not included in the repository): The dataset used in the analysis
 
 ## Getting Started
