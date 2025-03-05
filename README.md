@@ -14,7 +14,9 @@ This repository will be **regularly updated** with new projects, and existing an
 ## Repository Structure
 Each dataset has a dedicated Jupyter Notebook for its EDA. The structure is as follows:
 - `Online Retail Store.ipynb`: Jupyter Notebook containing the full analysis for a dataset
-- `Online Retail.csv` (not included in the repository): The dataset used in the analysis
+- `Online Retail.csv`: The dataset used in the analysis
+-  `Netflix Test.ipynb`: Jupyter Notebook containing the full analysis for a dataset
+- `netflix_data.csv`: The dataset used in the analysis
 
 ## Getting Started
 ### Prerequisites
