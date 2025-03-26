@@ -17,7 +17,7 @@ Each dataset has a dedicated Jupyter Notebook for its EDA. The structure is as f
 - `Online Retail.csv` (not included in the repository): The dataset used in the analysis
 -  `Netflix Test.ipynb`: Jupyter Notebook containing the full analysis for a dataset
 - `netflix_data.csv` (not included in the repository): The dataset used in the analysis
-- -  `Cars DEDA.ipynb`: Jupyter Notebook a progressively ongoing analysis for a dataset, the analysis being updated weekly
+-  `Cars DEDA.ipynb`: Jupyter Notebook a progressively ongoing analysis for a dataset, the analysis being updated weekly
 
 ## Getting Started
 ### Prerequisites
