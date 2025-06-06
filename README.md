@@ -1,52 +1,79 @@
-# Exploratory Data Analysis (EDA) Collection
+# Data Science Practice Repository
 
 ## Overview
-This repository contains a collection of **Exploratory Data Analysis (EDA)** projects on various datasets. The goal is to uncover patterns, insights, and trends using data visualization and statistical analysis.
+This repository serves as my personal **data science learning lab**, containing hands-on practice exercises and projects as I develop my skills in data analysis, visualization, and machine learning. Each exercise focuses on building practical experience with real-world datasets and common data science workflows.
 
-### Key Aspects of Each Analysis:
-- Data cleaning and preprocessing
-- Statistical summaries
-- Visualizations using `matplotlib` and `seaborn`
-- Key insights and interpretations
+### Learning Focus Areas:
+- Data manipulation and cleaning with `pandas`
+- Statistical analysis and hypothesis testing
+- Data visualization using `matplotlib`, `seaborn`, and `plotly`
+- Feature engineering and preprocessing
+- Basic machine learning techniques
+- SQL queries and database operations
 
-This repository will be **regularly updated** with new projects, and existing analyses may be revised with additional insights.
+This repository is **actively maintained** and grows weekly with new practice exercises, coding challenges, and mini-projects.
 
 ## Repository Structure
-Each dataset has a dedicated Jupyter Notebook for its EDA. The structure is as follows:
-- `Online Retail Store.ipynb`: Jupyter Notebook containing the full analysis for a dataset
-- `Online Retail.csv` (not included in the repository): The dataset used in the analysis
--  `Netflix Test.ipynb`: Jupyter Notebook containing the full analysis for a dataset
-- `netflix_data.csv` (not included in the repository): The dataset used in the analysis
--  `Cars DEDA.ipynb`: Jupyter Notebook a progressively ongoing analysis for a dataset, the analysis being updated weekly
-- `nobel prize winners data.ipynb`: Jupyter Notebook a progressively ongoing analysis for a dataset, the analysis being updated weekly
+Each practice exercise is contained in its own Jupyter Notebook with accompanying datasets (when possible). The current structure includes:
+
+### Exploratory Data Analysis Practice
+- `Online Retail Store.ipynb`: Customer behavior analysis and sales patterns
+- `Online Retail.csv` (dataset not included): E-commerce transaction data
+- `Netflix Test.ipynb`: Content analysis and viewing trends exploration  
+- `netflix_data.csv` (dataset not included): Streaming platform dataset
+
+### Ongoing Weekly Exercises
+- `Cars DEDA.ipynb`: **[Weekly Updates]** Automotive data analysis - exploring pricing, features, and market trends
+- `nobel prize winners data.ipynb`: **[Weekly Updates]** Historical analysis of Nobel laureates and award patterns
+- `crimes.ipynb`: **[Weekly Updates]** Crime statistics analysis and geographic patterns
 
 ## Getting Started
 ### Prerequisites
-Ensure you have the following Python libraries installed:
+Install the required Python libraries:
 ```bash
-pip install numpy pandas matplotlib seaborn
+pip install numpy pandas matplotlib seaborn plotly scikit-learn jupyter
 ```
 
-### Running the Notebooks
+### Running the Practice Exercises
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Emigbanam/eda-projects.git
+   git clone https://github.com/Emigbanam/data-science-practice.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd eda-projects
+   cd data-science-practice
    ```
-3. Open Jupyter Notebook:
+3. Launch Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-4. Select a project notebook and run the cells in order.
+4. Open any notebook and run the cells to see the analysis in action.
 
-## Updates & Contributions
-- New datasets and analyses will be added over time.
-- Existing projects may be refined with additional insights.
-- Contributions and suggestions are welcome!
+## Learning Progress & Updates
+- **New exercises added weekly** covering different aspects of data science
+- **Existing notebooks updated regularly** with improved techniques and additional insights
+- **Progressive skill building** from basic EDA to more advanced analytics
+- **Documentation of learning journey** with comments explaining thought processes
 
-## License
-This project is licensed under the MIT License.
+## Skills Being Developed
+- **Data Wrangling**: Cleaning messy datasets, handling missing values, data type conversions
+- **Statistical Analysis**: Descriptive statistics, correlation analysis, hypothesis testing
+- **Visualization**: Creating compelling charts and interactive dashboards
+- **Pattern Recognition**: Identifying trends, outliers, and meaningful relationships in data
+- **Communication**: Presenting findings clearly through code comments and markdown documentation
 
+## Future Learning Goals
+- Advanced machine learning algorithms
+- Time series analysis and forecasting
+- A/B testing and experimental design
+- Big data tools (Spark, Hadoop)
+- Cloud-based analytics platforms
+
+## Notes
+- Datasets are sourced from public repositories, Kaggle, and educational platforms
+- Code includes extensive comments for learning purposes
+- Each exercise builds upon previous concepts while introducing new techniques
+- Feedback and suggestions for improvement are always welcome!
+
+## Contact
+This is a personal learning repository. Feel free to explore the code and reach out with any questions or suggestions for new practice exercises.
