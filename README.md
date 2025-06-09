@@ -26,6 +26,7 @@ Each practice exercise is contained in its own Jupyter Notebook with accompanyin
 - `Cars DEDA.ipynb`: **[Weekly Updates]** Automotive data analysis - exploring pricing, features, and market trends
 - `nobel prize winners data.ipynb`: **[Weekly Updates]** Historical analysis of Nobel laureates and award patterns
 - `crimes.ipynb`: **[Weekly Updates]** Crime statistics analysis and geographic patterns
+- `NYC School Test Scores`: **[Weekly Updates]** Analysis of test scores of schools in a geaography
 
 ## Getting Started
 ### Prerequisites
