@@ -9,7 +9,6 @@ This repository serves as my personal **data science learning lab**, containing 
 - Data visualization using `matplotlib`, `seaborn`, and `plotly`
 - Feature engineering and preprocessing
 - Basic machine learning techniques
-- SQL queries and database operations
 
 This repository is **actively maintained** and grows weekly with new practice exercises, coding challenges, and mini-projects.
 
@@ -22,11 +21,12 @@ Each practice exercise is contained in its own Jupyter Notebook with accompanyin
 - `Netflix Test.ipynb`: Content analysis and viewing trends exploration  
 - `netflix_data.csv` (dataset not included): Streaming platform dataset
 
-### Ongoing Weekly Exercises
+### Practice Exercises
 - `Cars DEDA.ipynb`: **[Weekly Updates]** Automotive data analysis - exploring pricing, features, and market trends
-- `nobel prize winners data.ipynb`: **[Weekly Updates]** Historical analysis of Nobel laureates and award patterns
-- `crimes.ipynb`: **[Weekly Updates]** Crime statistics analysis and geographic patterns
-- `NYC School Test Scores`: **[Weekly Updates]** Analysis of test scores of schools in a geaography
+- `nobel prize winners data.ipynb`:  Historical analysis of Nobel laureates and award patterns
+- `crimes.ipynb`:  Crime statistics analysis and geographic patterns
+- `NYC School Test Scores.ipnyb`:  Analysis of test scores of schools in a geaography
+- `Practicing Functions.ipnyb`
 
 ## Getting Started
 ### Prerequisites
