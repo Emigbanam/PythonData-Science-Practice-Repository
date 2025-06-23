@@ -27,6 +27,7 @@ Each practice exercise is contained in its own Jupyter Notebook with accompanyin
 - `crimes.ipynb`:  Crime statistics analysis and geographic patterns
 - `NYC School Test Scores.ipnyb`:  Analysis of test scores of schools in a geaography
 - `Practicing Functions.ipnyb`
+- `Hypothesis Testing Practice.pnyb`
 
 ## Getting Started
 ### Prerequisites
